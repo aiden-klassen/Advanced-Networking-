@@ -53,7 +53,7 @@ This project presents a comprehensive Packet Tracer network design for a growing
 
 ## File
 
-- `company_network_design.pkt` – Complete Cisco Packet Tracer simulation file
+- Advanced Networking Design.pkt` – Complete Cisco Packet Tracer simulation file
 
 ## Tools Used
 
